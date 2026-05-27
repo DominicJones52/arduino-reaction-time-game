@@ -41,3 +41,15 @@ After 5 rounds, the game displays the best reaction time and average reaction ti
 - Conditional statements
 - Loops
 - Tracking statistics across rounds
+
+## Wiring Setup
+
+![Wiring Setup](wiring_setup.jpeg)
+
+## Versions
+
+- Version 1: Basic LED reaction timer
+- Version 2: Added false start detection
+- Version 3: Added 5-round game mode and best time tracking
+- Version 4: Added average time, timeout detection, and final game stats
+
