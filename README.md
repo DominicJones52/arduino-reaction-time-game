@@ -39,21 +39,15 @@ The game waits for a random amount of time, turns on an LED, plays a buzzer soun
 
 ### Full Wiring Setup
 
-Replace this image with a clear photo of the full final circuit:
-
-![Full Wiring Setup](images/full-wiring-setup.jpg)
+![Full Wiring Setup](images/full-wiring-setup.jpeg)
 
 ### LCD Wiring Close-Up
 
-Replace this image with a closer photo of the LCD wiring:
-
-![LCD Wiring Close-Up](images/lcd-wiring-closeup.jpg)
+![LCD Wiring Close-Up](images/lcd-wiring-closeup.jpeg)
 
 ### Button and Buzzer Wiring Close-Up
 
-Replace this image with a closer photo of the buttons, LED, and buzzer wiring:
-
-![Button and Buzzer Wiring Close-Up](images/button-buzzer-wiring.jpg)
+![Button and Buzzer Wiring Close-Up](images/button-buzzer-wiring.jpeg)
 
 ## Pin Connections
 
